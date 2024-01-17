@@ -1,0 +1,9 @@
+# Copyright (c) 2024 will-hedges <https://github.com/will-hedges>
+# SPDX-License-Identifier: MIT
+
+if SHIELD_MY_BOARD
+
+config ZMK_KEYBOARD_NAME
+    default "mf68"
+
+endif
