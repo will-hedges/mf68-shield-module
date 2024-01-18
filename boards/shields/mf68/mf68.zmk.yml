@@ -6,3 +6,4 @@ url: https://github.com/di0ib/tmk_keyboard/tree/master/keyboard/mf68
 requires: [pro_micro]
 features:
   - keys
+  - backlight
